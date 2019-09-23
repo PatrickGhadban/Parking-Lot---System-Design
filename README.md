@@ -12,7 +12,7 @@
 * Building or open space?
     * Mulitple locations?
 * How many levels and number of open spots per?
-    * Nay dependancies on levels?
+    * Any dependancies on levels?
 * How many entrances?
 * Types of spots?
     * Does pricing per spot differ?
