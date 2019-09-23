@@ -34,5 +34,3 @@
     * EXT LRG - 2 (1st) / $5
     * HANDICAP (size: LRG) - 2 (1st) / $2
     * PREMIUM (size: LRG) - 1 (1st) / $6
-* 
-
