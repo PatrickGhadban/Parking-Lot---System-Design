@@ -33,3 +33,8 @@
     * LRG - 6: 2(1st), 4(2nd) / $3
     * EXT LRG - 2 (1st) / $5
     * HANDICAP (size: LRG) - 3 (1st) / $2
+    
+* Used multiple stacks to store ParkingSpot objects which represented parking spots that were still available. 
+      * Run-time: O(1)
+* Used a hashmap to store { ID : Vehicles } which represent unavailable parking spots and the cars currently occupying them.
+      * Run-time: O(1)
