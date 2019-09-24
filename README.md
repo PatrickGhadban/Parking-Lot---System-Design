@@ -38,3 +38,4 @@
       * Run-time: O(1)
 * Used a hashmap to store { ID : Vehicles } which represent unavailable parking spots and the cars currently occupying them.
       * Run-time: O(1)
+* NOTE: In a system such a this, a real life example would have some sort of backend that would store this information.
