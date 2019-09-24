@@ -2,7 +2,7 @@
 
 1. Handling Ambuguity:
     * Recognize details / Ask clarfying questions
-        * I.E. Is this a system design question? Do you want to see a class hierarchy?
+        * I.E. Is this a system or algorithmic sdesign question? Do you want to see a class hierarchy?
 2. Systematic Approach:
     * Clarify details / assumptions (Some details may be purposely left out. It's your job to ask)
     * Mindset: Make $ for the client while producing a design product that works best for them and there particular needs. 
