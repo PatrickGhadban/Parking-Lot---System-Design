@@ -34,6 +34,18 @@
     * EXT LRG - 2 (1st) / $5
     * HANDICAP (size: LRG) - 3 (1st) / $2
     
+    
+ ### Class Hierarchy:
+ 1. ParkingLot
+ 2. A.)Vehicle
+      * Bus
+      * Truck
+      * Car
+      * MotorCycle
+      * Handicap
+2. B.) Parking Spot
+
+### Data Structures / Algoirthms
 * Used multiple stacks to store ParkingSpot objects which represented parking spots that were still available. 
       * Run-time: O(1)
 * Used a hashmap to store { ID : Vehicles } which represent unavailable parking spots and the cars currently occupying them.
