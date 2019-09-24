@@ -32,5 +32,4 @@
     * MED - 6: 2(1st), 4(2nd) / $2
     * LRG - 6: 2(1st), 4(2nd) / $3
     * EXT LRG - 2 (1st) / $5
-    * HANDICAP (size: LRG) - 2 (1st) / $2
-    * PREMIUM (size: LRG) - 1 (1st) / $6
+    * HANDICAP (size: LRG) - 3 (1st) / $2
